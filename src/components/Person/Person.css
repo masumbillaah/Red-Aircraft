@@ -1,0 +1,12 @@
+.person-img {
+    height: 180px;
+    border-radius: 5px;
+    /* clip-path: circle(); */
+    border: 1px solid rgb(219, 5, 119);
+}
+.card-body{
+    color: black;
+    background-color: white;
+    border: 1px solid rgb(219, 5, 119);
+    border-radius: 5px;
+}
